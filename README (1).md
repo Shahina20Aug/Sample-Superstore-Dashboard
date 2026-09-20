@@ -139,7 +139,7 @@ All of the above was written up in `Superstore\_Dashboard\_Documentation.docx`, 
 
 ## 👤 Author
 
-**Viswa Desikan**
-B.Tech, Artificial Intelligence \& Data Science
-Mahendra Engineering College (Autonomous), Namakkal, Tamil Nadu
+**Shahina**
+B.E,Electronics and Communication Engineering
+Muthayammal College of Engineering, Namakkal, Tamil Nadu
 
